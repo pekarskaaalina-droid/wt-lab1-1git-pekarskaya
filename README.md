@@ -16,3 +16,6 @@
 ## Изменения через VS Code
 
 Этот раздел добавлен при редактировании README.md в VS Code.
+## Ветка vscode-edit
+
+Это изменение сделано в ветке `feature/vscode-edit` через VS Code.
